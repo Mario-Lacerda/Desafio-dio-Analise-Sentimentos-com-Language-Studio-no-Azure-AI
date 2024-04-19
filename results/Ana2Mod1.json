@@ -1,0 +1,51 @@
+{
+    "documents": [
+        {
+            "id": "id__2403",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.78,
+                "neutral": 0.13,
+                "negative": 0.08
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.64,
+                        "neutral": 0.35,
+                        "negative": 0.01
+                    },
+                    "offset": 0,
+                    "length": 67,
+                    "text": "O atendimento ao cliente desta empresa é simplesmente excepcional! "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.74,
+                        "neutral": 0.02,
+                        "negative": 0.24
+                    },
+                    "offset": 67,
+                    "length": 75,
+                    "text": "Eles foram extremamente prestativos e resolveram meu problema rapidamente. "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.02,
+                        "negative": 0
+                    },
+                    "offset": 142,
+                    "length": 86,
+                    "text": "Fiquei muito satisfeito com a experiência e definitivamente continuarei sendo cliente."
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

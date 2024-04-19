@@ -1,0 +1,51 @@
+{
+    "documents": [
+        {
+            "id": "id__2950",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 1
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 72,
+                    "text": "Estou extremamente insatisfeito com o serviço de entrega desta empresa. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 72,
+                    "length": 133,
+                    "text": "Meu pedido chegou atrasado e danificado, e ainda tive dificuldades para resolver a situação com o serviço de atendimento ao cliente. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 205,
+                    "length": 20,
+                    "text": "Péssima experiência!"
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

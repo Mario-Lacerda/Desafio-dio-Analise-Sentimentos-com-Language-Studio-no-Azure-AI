@@ -1,0 +1,51 @@
+{
+    "documents": [
+        {
+            "id": "id__2232",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0,
+                "negative": 1
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 0,
+                    "length": 63,
+                    "text": "Estou extremamente decepcionado com o novo produto da empresa. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 63,
+                    "length": 114,
+                    "text": "Não cumpre o que promete, a qualidade é muito inferior ao anunciado e tive problemas desde o primeiro dia de uso. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 177,
+                    "length": 24,
+                    "text": "Não recomendo a ninguém!"
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

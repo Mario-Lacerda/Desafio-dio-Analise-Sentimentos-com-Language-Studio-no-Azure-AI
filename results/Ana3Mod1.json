@@ -1,0 +1,51 @@
+{
+    "documents": [
+        {
+            "id": "id__2754",
+            "sentiment": "positive",
+            "confidenceScores": {
+                "positive": 0.99,
+                "neutral": 0.01,
+                "negative": 0
+            },
+            "sentences": [
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.98,
+                        "neutral": 0.02,
+                        "negative": 0
+                    },
+                    "offset": 0,
+                    "length": 44,
+                    "text": "A entrega do pedido foi rápida e eficiente! "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 1,
+                        "neutral": 0,
+                        "negative": 0
+                    },
+                    "offset": 44,
+                    "length": 67,
+                    "text": "Recebi tudo em perfeitas condições e dentro do prazo estabelecido. "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.99,
+                        "neutral": 0.01,
+                        "negative": 0
+                    },
+                    "offset": 111,
+                    "length": 69,
+                    "text": "Estou muito contente com o serviço e com certeza comprarei novamente."
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

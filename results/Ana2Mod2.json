@@ -1,0 +1,51 @@
+{
+    "documents": [
+        {
+            "id": "id__2597",
+            "sentiment": "negative",
+            "confidenceScores": {
+                "positive": 0,
+                "neutral": 0.01,
+                "negative": 0.98
+            },
+            "sentences": [
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.03,
+                        "negative": 0.97
+                    },
+                    "offset": 0,
+                    "length": 92,
+                    "text": "Não consigo acreditar na falta de profissionalismo do atendimento ao cliente desta empresa. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0,
+                        "negative": 1
+                    },
+                    "offset": 92,
+                    "length": 90,
+                    "text": "Fui tratado com total desrespeito e meu problema não foi resolvido de forma satisfatória. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.85,
+                        "negative": 0.14
+                    },
+                    "offset": 182,
+                    "length": 35,
+                    "text": "Nunca mais farei negócios com eles!"
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}

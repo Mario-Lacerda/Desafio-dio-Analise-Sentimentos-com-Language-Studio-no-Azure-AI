@@ -1,0 +1,23 @@
+### Análise 1:
+
+#### Modelo 1: Texto Positivo
+"Adorei o novo produto da empresa! Ele superou todas as minhas expectativas. A qualidade é excelente e o design é incrível. Mal posso esperar para recomendar para meus amigos e familiares!"
+
+#### Modelo 2: Texto Negativo
+"Estou extremamente decepcionado com o novo produto da empresa. Não cumpre o que promete, a qualidade é muito inferior ao anunciado e tive problemas desde o primeiro dia de uso. Não recomendo a ninguém!"
+
+### Análise 2:
+
+#### Modelo 1: Texto Positivo
+"O atendimento ao cliente desta empresa é simplesmente excepcional! Eles foram extremamente prestativos e resolveram meu problema rapidamente. Fiquei muito satisfeito com a experiência e definitivamente continuarei sendo cliente."
+
+#### Modelo 2: Texto Negativo
+"Não consigo acreditar na falta de profissionalismo do atendimento ao cliente desta empresa. Fui tratado com total desrespeito e meu problema não foi resolvido de forma satisfatória. Nunca mais farei negócios com eles!"
+
+### Análise 3:
+
+#### Modelo 1: Texto Positivo
+"A entrega do pedido foi rápida e eficiente! Recebi tudo em perfeitas condições e dentro do prazo estabelecido. Estou muito contente com o serviço e com certeza comprarei novamente."
+
+#### Modelo 2: Texto Negativo
+"Estou extremamente insatisfeito com o serviço de entrega desta empresa. Meu pedido chegou atrasado e danificado, e ainda tive dificuldades para resolver a situação com o serviço de atendimento ao cliente. Péssima experiência!"
